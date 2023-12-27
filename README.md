@@ -1,6 +1,6 @@
 # UNP-Project_BI-with-Power-BI_Human-Resource
 
-completed this project as a part of my BI with PowerBI value-added-course with United Network of Professionals(UNP).
+Completed this project as a part of my BI with PowerBI value-added-course with United Network of Professionals(UNP).
 
 Key Highlights:- 1.Contributed to the development ot intricate KPIs and dynamic, interactive Power BI interfaces.
 
