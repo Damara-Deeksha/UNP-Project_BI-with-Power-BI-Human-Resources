@@ -14,4 +14,4 @@ PBIX File link:https://drive.google.com/file/d/1NLgGnLqev9q5CeUBL0S_D_rKYkToveTW
 
 PDF File link:https://drive.google.com/file/d/1YfICkeLhjzMcBArs3YCQy1wZsi13mRUp/view?usp=sharing
 
-Canva link:https://drive.google.com/file/d/140Zv8qVyYTxtWVaUCgDBybfSB1dG-en9/view?usp=sharing
+Canva link:https://drive.google.com/file/d/14L8N1A-PNz2hbbiSM27Rb_ArUSGE370R/view?usp=sharing
